@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQG3-ZeBjHfNiQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1732294038354?e=2147483647&v=beta&t=ZTKqbRQ-rBcR4PL0G6b000vYBUhx7ponM-dYQoraZQk)
-
 <h1 align="center">Hi 👋, I'm Cahit Haberal</h1>
 <h3 align="center">Electrical and Electronic Engineering student at Hacettepe University</h3>
 
